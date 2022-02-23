@@ -1,0 +1,16 @@
+= About LabHQ User Documentation
+:url-labhq: https://www.labhqlims.com/
+:url-labhq-docs: https://docs.labhqlims.com/
+:url-bsl: https://www.broughtonsoftware.com/
+
+{url-labhq}[LabHQ] is a Labrotory Information Managment System designed and built by {url-bsl}[Broughton Software Ltd.] This documentation is maintained as part of the same product lifecycle and released and update inline with the feature roadmap.
+
+== Resources
+
+* {url-bsl}[Broughton Software Ltd.]
+* {url-labhq}[LabHQ Custmer Login]
+* {url-labhq-docs}[LabHQ User Documentation]
+
+== Copyright and License
+
+Copyright (C) 2022-present {url-bsl}[Broughton Software Ltd.]

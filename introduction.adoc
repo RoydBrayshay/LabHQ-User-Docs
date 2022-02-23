@@ -1,0 +1,12 @@
+= Introduction
+
+A Laboritory Information Manament System or LIMS is an IT system that is designed to help manage day to day labority operations. Samples can be tracked through their testing life cycle and results captured in a way that is specific to the testing method so that results can be reported in an efficient, accurate and complient way.
+
+The LabHQ LIMS system allows you to set up products that you routinly test with test methods that you routinly use and then track testing work called jobs through the testing process lifecycle. Each test method has inputs and outputs that you may enter and in some cases this data can be retived directly from labratory equipment through appropriate integration. When test results are entered the system will help to record them in the correct format and also perform commonly used calculations if required. When all testing is complete LabHQ will create a testing report called the results certificate. This will contain all the details of the product testing job in user friendly and compliant format.
+
+The process of setting up new products is made easier and quicker because LabHQ organises commonly used groups of tests into test suites. For busy labs with many test method variations this really helps keep things organised and quick to administer saving time and reducing mistakes.
+
+All through the testing lifecycle LabHQ tracks changes in an audit log that makes compliance easy and changes 
+tracable.
+
+Users of LabHQ are granted appropriate security permissions so they can perform their role as part of the lifecycle. Admin and set-up data can be restricted as required to ensure compliance and operational control. If required LabHQ can also provide resticted access to outside customers to add eficiencies to inputing samples and communicating results. This types of access also improves security through end to end encryption which is not possible using typical email communication.

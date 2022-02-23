@@ -1,0 +1,14 @@
+= Welcome to LabHQ
+
+LabHQ is an Lab Information Managment System or LIMS for short. It is used to track the lifecycle of samples through a testing lab. The LabHQ lifecycle starts from samples being received and runs right through to creating a formal certificate of testing results.
+
+== LIMS as a Service
+Instead of being installed on computers within a physical laboritory building, LabHQ is hosted remotly and made available through the internet. This means it can be accessed from any computer that has an internet connection by using a modern internet browser like Google Chrome, Mozzila Firefox, Microsoft Edge or Apple Safari. The internet URL of your LabHQ system is unique to your business and is created during the setup process. Typing this URL into a browser will take you to the login screen for your lab.
+
+== Where to Begin
+The link:getting-started[Getting Started] section will walk you through setting things up, creating user accounts and walk you through a simple testing lifecycle.
+
+If you are not farmilliar with what a LIMS system does and how it will help the running of a lab then read the link:introduction[Introduction] section first.
+
+
+
